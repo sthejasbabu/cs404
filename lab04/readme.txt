@@ -1,3 +1,18 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js 
+5 Something extra 
+5 Respond to switch
+5 ReadMe.txt    - Please list each file you want me to look at and note what each does.
+5 Not late
+
+
+Grade: 25/25
+
+I don't know why I miss this the first time.
+
+=======================================
+
 
  To   :Mark Yoder
  From :Thejas Babu
