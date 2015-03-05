@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   0 - Appears copied
+# Code       5  - How well it the proximity sensor work?
+# Table      5 - See assignment
+
+Grade:  20/25
+
+================================================
+
 Date:20/09/2015 
 To:  Mark Yoder
 From : Thejas Babu
