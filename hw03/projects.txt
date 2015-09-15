@@ -16,7 +16,8 @@ Link:http://www.explainthatstuff.com/voicerecognition.html
 
 3)Automated table tennis ball dispenser.
 
-	It is a device that dispenses a table-tennis ball to the player . The device will be empowered to change the angle and altitude of dispensing the ball. This will provide the user a chance to face a variety of serves from his virtual opponent(the ball dispensing machine).
+	It is a device that dispenses a table-tennis ball to the player . The device will be empowered to change the angle and altitude of dispensing the ball. 
+	This will provide the user a chance to face a variety of serves from his virtual opponent(the ball dispensing machine).
 Link:http://electronics.howstuffworks.com/gadgets/other-gadgets/tennis-ball-launcher-pictures1.htm#page=4
 	The above link gives certain details of how a tennis ball launcher works.(This is somewhat analogous to a Table-tennis ball launcher) .
 	When the launcher is powered on, an electric fan pulls air from the outside into the canister. 
