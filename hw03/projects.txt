@@ -18,4 +18,6 @@ Link:http://www.explainthatstuff.com/voicerecognition.html
 
 	It is a device that dispenses a table-tennis ball to the player . The device will be empowered to change the angle and altitude of dispensing the ball. This will provide the user a chance to face a variety of serves from his virtual opponent(the ball dispensing machine).
 Link:http://electronics.howstuffworks.com/gadgets/other-gadgets/tennis-ball-launcher-pictures1.htm#page=4
-	The above link gives certain details of how a tennis ball launcher works.(This is somewhat analogous to a Table-tennis ball launcher) .	
+	The above link gives certain details of how a tennis ball launcher works.(This is somewhat analogous to a Table-tennis ball launcher) .
+	When the launcher is powered on, an electric fan pulls air from the outside into the canister. 
+	The air flows through a piece of foam and protective screen. These protect the fan motor from debris. The air then flows upward through the hopper.The air leaves the hopper and then moves out through the barrel.
