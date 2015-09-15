@@ -5,13 +5,15 @@ Roll: B13223
 
 	It has an inbuilt anemometer setup which enables it to gauge the wind speed upto certain limits precisely. 
 Link:http://science.howstuffworks.com/environmental/green-science/wind-power6.htm
-	The above link gives certain details of energy harnessing using a windmill. However, one can figure out by simple analogy that the energy harnessed can be directly related to the wind velocity for that particular case.
+	The above link gives certain details of energy harnessing using a windmill. 
+	However, one can figure out by simple analogy that the energy harnessed can be directly related to the wind velocity for that particular case.
 
 2)Automated Lock System using Voice Recognition.
 
 	 It enables the user to secure his laptop or safety vault with his /her voice and a particular password or sentence.
 Link:http://www.explainthatstuff.com/voicerecognition.html
-	I looked into some of the requirements to implement voice recognition like analog-to-digital (A/D) converter(say a microphone) and phonetic dictionary (a list of known words and the sound fragments or features from which they're made).
+	I looked into some of the requirements to implement voice recognition like analog-to-digital (A/D) converter(say a microphone) 
+	and phonetic dictionary (a list of known words and the sound fragments or features from which they're made).
 
 
 3)Automated table tennis ball dispenser.
@@ -21,4 +23,5 @@ Link:http://www.explainthatstuff.com/voicerecognition.html
 Link:http://electronics.howstuffworks.com/gadgets/other-gadgets/tennis-ball-launcher-pictures1.htm#page=4
 	The above link gives certain details of how a tennis ball launcher works.(This is somewhat analogous to a Table-tennis ball launcher) .
 	When the launcher is powered on, an electric fan pulls air from the outside into the canister. 
-	The air flows through a piece of foam and protective screen. These protect the fan motor from debris. The air then flows upward through the hopper.The air leaves the hopper and then moves out through the barrel.
+	The air flows through a piece of foam and protective screen. These protect the fan motor from debris. The air then flows upward through the hopper.
+	The air leaves the hopper and then moves out through the barrel.
