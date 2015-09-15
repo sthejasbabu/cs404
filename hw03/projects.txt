@@ -1,20 +1,20 @@
 Name:S Thejas Babu
 Roll: B13223
 
-Calculation of Wind Speed Velocity.
+1)Calculation of Wind Speed Velocity.
 
 	It has an inbuilt anemometer setup which enables it to gauge the wind speed upto certain limits precisely. 
 Link:http://science.howstuffworks.com/environmental/green-science/wind-power6.htm
 	The above link gives certain details of energy harnessing using a windmill. However, one can figure out by simple analogy that the energy harnessed can be directly related to the wind velocity for that particular case.
 
-Automated Lock System using Voice Recognition.
+2)Automated Lock System using Voice Recognition.
 
 	 It enables the user to secure his laptop or safety vault with his /her voice and a particular password or sentence.
 Link:http://www.explainthatstuff.com/voicerecognition.html
 	I looked into some of the requirements to implement voice recognition like analog-to-digital (A/D) converter(say a microphone) and phonetic dictionary (a list of known words and the sound fragments or features from which they're made).
 
 
-Automated table tennis ball dispenser.
+3)Automated table tennis ball dispenser.
 
 	It is a device that dispenses a table-tennis ball to the player . The device will be empowered to change the angle and altitude of dispensing the ball. This will provide the user a chance to face a variety of serves from his virtual opponent(the ball dispensing machine).
 Link:http://electronics.howstuffworks.com/gadgets/other-gadgets/tennis-ball-launcher-pictures1.htm#page=4
