@@ -18,7 +18,7 @@ MODULE_AUTHOR("Derek Molloy");      ///< The author -- visible when you use modi
 MODULE_DESCRIPTION("A simple Linux driver for the BBB.");  ///< The description -- see modinfo
 MODULE_VERSION("0.1");              ///< The version of the module
 
-static char *name = "manoj";        ///< An example LKM argument -- default value is "world"
+static char *name = "Thejas";        ///< An example LKM argument -- default value is "world"
 static char *addr = "IIT";
 module_param(name, charp, S_IRUGO); ///< Param desc. charp = char ptr, S_IRUGO can be read/not changed
 module_param(addr, charp, S_IRUGO); 
