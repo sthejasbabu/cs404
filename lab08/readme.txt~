@@ -1,8 +1,7 @@
-Date:14/10/2015
- 
+Date:15/10/2015
  To   :Mark Yoder
   From :Thejas babu
-        B13223
-  Subject:lab08 
-  
-		In lab we downloaded and compiled the kernal sourse and loaded mollys lkm into kernal which printed hello thejas babu on keranl log
+   Roll_num:  B13223
+        
+        Linux Kernel was downloaded and built in the lab. We then loaded Derek Molly's Hello World program onto the kernel 
+        which printed the Hello World message on the kernel log.[it was modified to print my name on the kernel log].
