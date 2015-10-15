@@ -5,7 +5,7 @@ b.pinMode('P9_16', b.OUTPUT);
 var status = 0;
 
 setInterval(check,100);
-
+//calling funtion check
 function check(){
 b.digitalRead('P8_19', checkButton);
 status = b.digitalRead('P8_16');
