@@ -3,7 +3,7 @@ b.pinMode('P8_19', b.INPUT);
 b.pinMode('P8_13', b.OUTPUT);
 b.pinMode('P9_16', b.OUTPUT);
 setInterval(check,100);
-
+//calling function check
 function check(){
 b.digitalRead('P8_19', checkButton);
 }
