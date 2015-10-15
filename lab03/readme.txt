@@ -2,17 +2,13 @@ To :Mark Yoder
 From :Thejas Babu
 B13223
 Subject:lab03
-Lab Group:Thejas Babu and Karre Nitin
 
-slider.js
-code for reading an analog voltage from a variable resistor.
-analog.js 
-code for controlling brightness of LEDs using PWM.
+a)we read the input values i.e [analog voltage] of the variable resistor and printed it in run time using read_pot.js
 
-fade.js
-it contains code for increasing brightness of a led while decreasing the brightness of the other led
+b)Using the pulse width modulation pins on the beagle bone, we altered the brightness of the Leds using analog.js code.
 
-readpot.js 
-it contains code to read the value of a variable resistor
+c)we worked with 2 Leds, while increasing the brightness of 1 Led we decreased the brightness of the other Led using the code written in fade.js.
 
-    we also read the value of potentiometer on a webpage using JsFiddle
+d) The slider.js program is used to change the brightness of the Leds using the input from variable resistor.
+
+e)In  classroom , we opened the JS Fiddle webpage and connected our beagle bone to the site and displayed the readings of the bone on the web page.
