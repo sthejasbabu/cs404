@@ -3,11 +3,10 @@
   From :Thejas Babu
         B13223
   Subject:lab02
-  Lab Group:Thejas Babu and Karre Nitin
+
   
-           Lab is about controlling blinking of a led using switch
+          In this lab we controlled Leds using pushbutton switches.
           
-          file input2.js consists of code for blinking 2 leds when switch is pressed
-          file input3.js consists of code for blinking an led 10 times when a switch is pressed
-          file input4.js consists of code for blinking an led when a switch is pressed and stoping its blinking when another 
-                switch is pressed
+          a)for blinking 2 leds when switch is pressed ,inp_2.js has the code 
+          b)for blinking an led 10 times when a pushbutton is pressed, file inp_3.js as developed.
+          c)we then used 2 pushbutton switches, one for turning on the led and another for turning it off. The code is in inp_4.js
