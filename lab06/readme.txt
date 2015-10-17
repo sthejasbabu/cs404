@@ -2,10 +2,13 @@ Date:13/10/2015
  
  To   :Mark Yoder
   From :S Thejas Babu
-        B13223
+  Roll : B13223
   Subject:lab06 
 
-etchasketch.js 
-		contains simple etch a sketch on led matrix controlled using joystick
-joystick.js 
-		contains code for printing positing of jostick on console taking centre as 50,50
+a)etchasketch.js contains simple etch a sketch on led matrix controlled using joystick
+
+b)joystick.js contains code for printing the position of jostick on console taking centre as 50,50
+
+c)brightness.js contains code to control brightness of led using joystick
+		
+d)string.js contains code to move through string hello k using joystick
