@@ -1,10 +1,15 @@
 
  To   :Mark Yoder
-  From :Thejas Babu
-        B13223
-  Subject:lab04 (led matrix)
+ From :Thejas Babu
+ Roll : B13223
 
-This lab is about using i2c to connect led matrix to beaglebone
 
-ledmatrix.js contains code for connecting 8*8 bicolour led matrix to i2c of beaglebone to display different faces on led matrix
-x.js contains code for etcha sketch using joystick
+a)In this lab we learned to connect led matrix to beaglebone using i2c.
+
+b)ledmatrix.js contains code for connecting 8*8 bicolour led matrix to i2c of beaglebone.
+
+c)We used the code to display different faces on led matrix.
+
+d)We then controlled the led matrix with a push-button using the matrix_button.js
+
+d)x.js contains code for etcha sketch using joystick
