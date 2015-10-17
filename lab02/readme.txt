@@ -1,4 +1,19 @@
-                                                                                                      Date:20/09/2015
+# Comments from Mark A. Yoder
+
+0 blinkled.js
+5 input.js
+0 some variation
+5 ReadMe.txt
+5 Not late
++2 Fritzing
+
+Grade:  17/25
+
+There is no delay() function in JavaScript
+
+========================================
+
+                                                               Date:20/09/2015
   To   :Mark Yoder
   From :Thejas Babu
         B13223
