@@ -4,9 +4,25 @@ From : Thejas Babu
 Roll : B13223
 
 
+<<<<<<< HEAD
 a)This lab is  to connect ultrasonic sensor(hc-sr04)to beaglebone hc-sr04-b)ultraSonic.js contains code for using ultrasonic sensor to sense obstacle and  print distance  in cm.
 
 c)Ultrasonic sensor Reading (in cm)                       Actual Distance ( in cm)
+=======
+Date:20/09/2015
+ 
+ To   :Mark Yoder
+  From :Thejas Babu
+        B13223
+  Subject:lab05 (ultrasonic sensor hc-sr04)
+  
+This lab is  to connect ultrasonic sensor(hc-sr04)to beaglebone
+
+hc-sr04-ultraSonic.js contains code for using ultrasonic sensor to sense obstacle and  print distance  in cm.
+							
+	         
+Ultrasonic sensor Reading (in cm)             ActualDistance ( in cm)
+>>>>>>> b045c269c196fa6c13cc5978db14a7939fa9bf88
 			           5.4						6.0
 			           6.2						7.1
 			           6.6						 7.2						
